@@ -1,0 +1,23 @@
+# Core numerical + data handling
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# API (model serving)
+fastapi
+uvicorn
+
+# Dashboard
+streamlit
+requests
+
+# Experimentation / notebooks
+jupyter
+ipykernel
