@@ -1,4 +1,4 @@
-# AI-Powered Network Anomaly Detection System
+# Network Anomaly Detection System
 
 ## Overview
 This project implements an AI-powered network anomaly detection system using the UNSW-NB15 dataset.  
@@ -17,7 +17,7 @@ The system is designed to resemble real-world Intrusion Detection Systems (IDS),
   - TCP behavior and connection statistics
   - Protocol and service metadata
 
-### Labels (used only for evaluation)
+### Labels (used for evaluation)
 - `label = 0` → Normal traffic  
 - `label = 1` → Attack traffic  
 - `attack_cat` → Type of attack (DoS, Reconnaissance, Exploits, etc.)
