@@ -1,4 +1,4 @@
-# AI-Powered Network Anomaly Detection System
+# Network Anomaly Detection System
 
 ## Overview
 This project implements an AI-powered network anomaly detection system using the UNSW-NB15 dataset.  
